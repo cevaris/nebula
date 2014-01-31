@@ -1,0 +1,5 @@
+frozenset(['gay'])
+frozenset(['gayporn', 'gay'])
+frozenset(['cock'])
+frozenset(['gayporn'])
+frozenset(['cock', 'gay'])

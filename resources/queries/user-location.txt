@@ -1,0 +1,1783 @@
+MongoDB shell version: 2.2.3
+connecting to: localhost:27017/GayMarrige_3_27_2013__16_39_36
+{
+	"result" : [
+		{
+			"_id" : "London",
+			"location_count" : 238
+		},
+		{
+			"_id" : "Brasil",
+			"location_count" : 238
+		},
+		{
+			"_id" : "USA",
+			"location_count" : 219
+		},
+		{
+			"_id" : "Argentina",
+			"location_count" : 172
+		},
+		{
+			"_id" : "Brazil",
+			"location_count" : 171
+		},
+		{
+			"_id" : "New York",
+			"location_count" : 154
+		},
+		{
+			"_id" : "Texas",
+			"location_count" : 154
+		},
+		{
+			"_id" : "Canada",
+			"location_count" : 137
+		},
+		{
+			"_id" : "indian orchard, ma",
+			"location_count" : 118
+		},
+		{
+			"_id" : "Florida",
+			"location_count" : 112
+		},
+		{
+			"_id" : "California",
+			"location_count" : 111
+		},
+		{
+			"_id" : "Los Angeles",
+			"location_count" : 106
+		},
+		{
+			"_id" : "Michigan",
+			"location_count" : 105
+		},
+		{
+			"_id" : "Chicago",
+			"location_count" : 100
+		},
+		{
+			"_id" : "Toronto",
+			"location_count" : 99
+		},
+		{
+			"_id" : "New Jersey",
+			"location_count" : 95
+		},
+		{
+			"_id" : "Los Angeles, CA",
+			"location_count" : 89
+		},
+		{
+			"_id" : "Washington, DC",
+			"location_count" : 89
+		},
+		{
+			"_id" : "England",
+			"location_count" : 86
+		},
+		{
+			"_id" : "Chicago, IL",
+			"location_count" : 85
+		},
+		{
+			"_id" : "United States",
+			"location_count" : 85
+		},
+		{
+			"_id" : "Ohio",
+			"location_count" : 82
+		},
+		{
+			"_id" : "UK",
+			"location_count" : 80
+		},
+		{
+			"_id" : "Rio de Janeiro",
+			"location_count" : 80
+		},
+		{
+			"_id" : "NYC",
+			"location_count" : 77
+		},
+		{
+			"_id" : "Venezuela",
+			"location_count" : 73
+		},
+		{
+			"_id" : "Hogwarts",
+			"location_count" : 72
+		},
+		{
+			"_id" : "Paris",
+			"location_count" : 72
+		},
+		{
+			"_id" : "New York, NY",
+			"location_count" : 67
+		},
+		{
+			"_id" : "São Paulo",
+			"location_count" : 67
+		},
+		{
+			"_id" : "New York City",
+			"location_count" : 67
+		},
+		{
+			"_id" : "Pennsylvania",
+			"location_count" : 62
+		},
+		{
+			"_id" : "Manchester",
+			"location_count" : 62
+		},
+		{
+			"_id" : "Boston, MA",
+			"location_count" : 61
+		},
+		{
+			"_id" : "North Carolina",
+			"location_count" : 60
+		},
+		{
+			"_id" : "Everywhere",
+			"location_count" : 58
+		},
+		{
+			"_id" : "Indiana",
+			"location_count" : 57
+		},
+		{
+			"_id" : "Narnia",
+			"location_count" : 56
+		},
+		{
+			"_id" : "Worldwide",
+			"location_count" : 53
+		},
+		{
+			"_id" : "Mexico",
+			"location_count" : 52
+		},
+		{
+			"_id" : "Australia",
+			"location_count" : 52
+		},
+		{
+			"_id" : "Boston",
+			"location_count" : 52
+		},
+		{
+			"_id" : "Atlanta, GA",
+			"location_count" : 52
+		},
+		{
+			"_id" : "México",
+			"location_count" : 51
+		},
+		{
+			"_id" : "France",
+			"location_count" : 51
+		},
+		{
+			"_id" : "Earth",
+			"location_count" : 50
+		},
+		{
+			"_id" : "Buenos Aires, Argentina",
+			"location_count" : 49
+		},
+		{
+			"_id" : "Ireland",
+			"location_count" : 49
+		},
+		{
+			"_id" : "Atlanta",
+			"location_count" : 46
+		},
+		{
+			"_id" : "España",
+			"location_count" : 45
+		},
+		{
+			"_id" : "Georgia",
+			"location_count" : 45
+		},
+		{
+			"_id" : "Wonderland",
+			"location_count" : 45
+		},
+		{
+			"_id" : "Las Vegas",
+			"location_count" : 45
+		},
+		{
+			"_id" : "Madrid",
+			"location_count" : 45
+		},
+		{
+			"_id" : "Minnesota",
+			"location_count" : 44
+		},
+		{
+			"_id" : "San Francisco, CA",
+			"location_count" : 44
+		},
+		{
+			"_id" : "Virginia",
+			"location_count" : 44
+		},
+		{
+			"_id" : "Buenos Aires",
+			"location_count" : 44
+		},
+		{
+			"_id" : "Colombia",
+			"location_count" : 41
+		},
+		{
+			"_id" : "Worldwide — Atlanta",
+			"location_count" : 41
+		},
+		{
+			"_id" : "Scotland",
+			"location_count" : 41
+		},
+		{
+			"_id" : "Massachusetts",
+			"location_count" : 39
+		},
+		{
+			"_id" : "Germany",
+			"location_count" : 39
+		},
+		{
+			"_id" : "Washington, D.C.",
+			"location_count" : 38
+		},
+		{
+			"_id" : "Maryland",
+			"location_count" : 38
+		},
+		{
+			"_id" : "San Francisco",
+			"location_count" : 38
+		},
+		{
+			"_id" : "Houston, Texas",
+			"location_count" : 37
+		},
+		{
+			"_id" : "Sydney, Australia",
+			"location_count" : 37
+		},
+		{
+			"_id" : "Ciudad gótica.",
+			"location_count" : 36
+		},
+		{
+			"_id" : "Toronto, Canada",
+			"location_count" : 36
+		},
+		{
+			"_id" : "Kansas",
+			"location_count" : 35
+		},
+		{
+			"_id" : "Arizona",
+			"location_count" : 35
+		},
+		{
+			"_id" : "Houston",
+			"location_count" : 35
+		},
+		{
+			"_id" : "Wisconsin",
+			"location_count" : 35
+		},
+		{
+			"_id" : "Houston, TX",
+			"location_count" : 35
+		},
+		{
+			"_id" : "San Diego, CA",
+			"location_count" : 34
+		},
+		{
+			"_id" : "Kentucky",
+			"location_count" : 34
+		},
+		{
+			"_id" : "PA",
+			"location_count" : 33
+		},
+		{
+			"_id" : "Dublin",
+			"location_count" : 33
+		},
+		{
+			"_id" : "Glasgow",
+			"location_count" : 33
+		},
+		{
+			"_id" : "Belo Horizonte",
+			"location_count" : 32
+		},
+		{
+			"_id" : "Southern California",
+			"location_count" : 32
+		},
+		{
+			"_id" : "Puerto Rico",
+			"location_count" : 32
+		},
+		{
+			"_id" : "Colorado",
+			"location_count" : 32
+		},
+		{
+			"_id" : "Neverland",
+			"location_count" : 32
+		},
+		{
+			"_id" : "Tennessee",
+			"location_count" : 32
+		},
+		{
+			"_id" : "Austin, TX",
+			"location_count" : 32
+		},
+		{
+			"_id" : "London, UK",
+			"location_count" : 31
+		},
+		{
+			"_id" : "Seattle",
+			"location_count" : 31
+		},
+		{
+			"_id" : "Philadelphia, PA",
+			"location_count" : 30
+		},
+		{
+			"_id" : "Toronto, ON",
+			"location_count" : 30
+		},
+		{
+			"_id" : "brazil",
+			"location_count" : 30
+		},
+		{
+			"_id" : "Brooklyn, NY",
+			"location_count" : 30
+		},
+		{
+			"_id" : "Seattle, WA",
+			"location_count" : 29
+		},
+		{
+			"_id" : "argentina",
+			"location_count" : 29
+		},
+		{
+			"_id" : "United Kingdom",
+			"location_count" : 29
+		},
+		{
+			"_id" : "LA",
+			"location_count" : 29
+		},
+		{
+			"_id" : "Dallas, Texas",
+			"location_count" : 29
+		},
+		{
+			"_id" : "Charlotte, NC",
+			"location_count" : 28
+		},
+		{
+			"_id" : "Miami",
+			"location_count" : 27
+		},
+		{
+			"_id" : "Sydney",
+			"location_count" : 27
+		},
+		{
+			"_id" : "Edinburgh",
+			"location_count" : 27
+		},
+		{
+			"_id" : "Lyon",
+			"location_count" : 27
+		},
+		{
+			"_id" : "Los Angeles, California",
+			"location_count" : 27
+		},
+		{
+			"_id" : "Guatemala",
+			"location_count" : 27
+		},
+		{
+			"_id" : "Caracas",
+			"location_count" : 27
+		},
+		{
+			"_id" : "Missouri",
+			"location_count" : 26
+		},
+		{
+			"_id" : "Barbados",
+			"location_count" : 26
+		},
+		{
+			"_id" : "Essex",
+			"location_count" : 26
+		},
+		{
+			"_id" : "Chile",
+			"location_count" : 26
+		},
+		{
+			"_id" : "NC",
+			"location_count" : 26
+		},
+		{
+			"_id" : "Connecticut",
+			"location_count" : 26
+		},
+		{
+			"_id" : "Alabama",
+			"location_count" : 26
+		},
+		{
+			"_id" : "Melbourne, Australia",
+			"location_count" : 26
+		},
+		{
+			"_id" : "Austin, Texas",
+			"location_count" : 26
+		},
+		{
+			"_id" : "Nashville, TN",
+			"location_count" : 26
+		},
+		{
+			"_id" : "Nigeria",
+			"location_count" : 25
+		},
+		{
+			"_id" : "South Carolina",
+			"location_count" : 25
+		},
+		{
+			"_id" : "America",
+			"location_count" : 24
+		},
+		{
+			"_id" : "Atlanta, Georgia",
+			"location_count" : 24
+		},
+		{
+			"_id" : "Gotham City",
+			"location_count" : 24
+		},
+		{
+			"_id" : "San Diego",
+			"location_count" : 24
+		},
+		{
+			"_id" : "Birmingham",
+			"location_count" : 24
+		},
+		{
+			"_id" : "Pittsburgh",
+			"location_count" : 24
+		},
+		{
+			"_id" : "Detroit",
+			"location_count" : 24
+		},
+		{
+			"_id" : "Tampa, Florida",
+			"location_count" : 24
+		},
+		{
+			"_id" : "Melbourne",
+			"location_count" : 24
+		},
+		{
+			"_id" : "Indonesia",
+			"location_count" : 24
+		},
+		{
+			"_id" : "Hell",
+			"location_count" : 23
+		},
+		{
+			"_id" : "London ",
+			"location_count" : 23
+		},
+		{
+			"_id" : "Buffalo, NY",
+			"location_count" : 23
+		},
+		{
+			"_id" : "San Antonio, Texas",
+			"location_count" : 23
+		},
+		{
+			"_id" : "Pittsburgh, PA",
+			"location_count" : 23
+		},
+		{
+			"_id" : "Toronto, Ontario",
+			"location_count" : 22
+		},
+		{
+			"_id" : "Louisiana",
+			"location_count" : 22
+		},
+		{
+			"_id" : "CT",
+			"location_count" : 22
+		},
+		{
+			"_id" : "Miami, FL",
+			"location_count" : 22
+		},
+		{
+			"_id" : "NY",
+			"location_count" : 22
+		},
+		{
+			"_id" : "TX",
+			"location_count" : 22
+		},
+		{
+			"_id" : "NJ",
+			"location_count" : 21
+		},
+		{
+			"_id" : "Paris, France",
+			"location_count" : 21
+		},
+		{
+			"_id" : "Italy",
+			"location_count" : 21
+		},
+		{
+			"_id" : "El Salvador",
+			"location_count" : 21
+		},
+		{
+			"_id" : "Montreal",
+			"location_count" : 21
+		},
+		{
+			"_id" : "ATL",
+			"location_count" : 21
+		},
+		{
+			"_id" : "St. Louis",
+			"location_count" : 21
+		},
+		{
+			"_id" : "Minneapolis, MN",
+			"location_count" : 21
+		},
+		{
+			"_id" : "Philippines",
+			"location_count" : 20
+		},
+		{
+			"_id" : "Paradise",
+			"location_count" : 20
+		},
+		{
+			"_id" : "US",
+			"location_count" : 20
+		},
+		{
+			"_id" : "Wales",
+			"location_count" : 20
+		},
+		{
+			"_id" : "New York ",
+			"location_count" : 20
+		},
+		{
+			"_id" : "Planet Earth",
+			"location_count" : 20
+		},
+		{
+			"_id" : "brasil",
+			"location_count" : 20
+		},
+		{
+			"_id" : "Brasil ",
+			"location_count" : 20
+		},
+		{
+			"_id" : "Sweden",
+			"location_count" : 20
+		},
+		{
+			"_id" : "Liverpool",
+			"location_count" : 19
+		},
+		{
+			"_id" : "All Around The World",
+			"location_count" : 19
+		},
+		{
+			"_id" : "Rosario",
+			"location_count" : 19
+		},
+		{
+			"_id" : "Indianapolis, IN",
+			"location_count" : 19
+		},
+		{
+			"_id" : "Northern Ireland",
+			"location_count" : 19
+		},
+		{
+			"_id" : "cwb",
+			"location_count" : 19
+		},
+		{
+			"_id" : "Raleigh, NC",
+			"location_count" : 19
+		},
+		{
+			"_id" : "canada",
+			"location_count" : 19
+		},
+		{
+			"_id" : "new york",
+			"location_count" : 19
+		},
+		{
+			"_id" : "Leicester",
+			"location_count" : 19
+		},
+		{
+			"_id" : "Utah",
+			"location_count" : 19
+		},
+		{
+			"_id" : "United States of America",
+			"location_count" : 19
+		},
+		{
+			"_id" : "Lagos, Nigeria",
+			"location_count" : 19
+		},
+		{
+			"_id" : "Portugal",
+			"location_count" : 19
+		},
+		{
+			"_id" : "ohio",
+			"location_count" : 18
+		},
+		{
+			"_id" : "Minas Gerais",
+			"location_count" : 18
+		},
+		{
+			"_id" : "Mystic Falls",
+			"location_count" : 18
+		},
+		{
+			"_id" : "Dallas, TX",
+			"location_count" : 18
+		},
+		{
+			"_id" : "DMV",
+			"location_count" : 18
+		},
+		{
+			"_id" : "Dublin, Ireland",
+			"location_count" : 18
+		},
+		{
+			"_id" : "Iowa",
+			"location_count" : 18
+		},
+		{
+			"_id" : "Singapore",
+			"location_count" : 18
+		},
+		{
+			"_id" : "Pennsylvania ",
+			"location_count" : 18
+		},
+		{
+			"_id" : "Illinois",
+			"location_count" : 18
+		},
+		{
+			"_id" : "Jamaica",
+			"location_count" : 18
+		},
+		{
+			"_id" : "neverland",
+			"location_count" : 18
+		},
+		{
+			"_id" : "Heaven",
+			"location_count" : 18
+		},
+		{
+			"_id" : "Vancouver",
+			"location_count" : 18
+		},
+		{
+			"_id" : "Philly",
+			"location_count" : 17
+		},
+		{
+			"_id" : "Chicago, Illinois",
+			"location_count" : 17
+		},
+		{
+			"_id" : "DM[V]",
+			"location_count" : 17
+		},
+		{
+			"_id" : "California ",
+			"location_count" : 17
+		},
+		{
+			"_id" : "Cleveland, OH",
+			"location_count" : 17
+		},
+		{
+			"_id" : "Philadelphia",
+			"location_count" : 17
+		},
+		{
+			"_id" : "Columbus, OH",
+			"location_count" : 17
+		},
+		{
+			"_id" : "Baltimore, Maryland",
+			"location_count" : 17
+		},
+		{
+			"_id" : "Oregon",
+			"location_count" : 17
+		},
+		{
+			"_id" : "Lawrence, Kansas",
+			"location_count" : 17
+		},
+		{
+			"_id" : "Recife",
+			"location_count" : 17
+		},
+		{
+			"_id" : "∞",
+			"location_count" : 17
+		},
+		{
+			"_id" : "nj",
+			"location_count" : 17
+		},
+		{
+			"_id" : "Memphis, TN",
+			"location_count" : 17
+		},
+		{
+			"_id" : "mexico",
+			"location_count" : 16
+		},
+		{
+			"_id" : "0/5",
+			"location_count" : 16
+		},
+		{
+			"_id" : "Rhode Island",
+			"location_count" : 16
+		},
+		{
+			"_id" : "Sefolosha's Bathroom",
+			"location_count" : 16
+		},
+		{
+			"_id" : "Chiapas",
+			"location_count" : 16
+		},
+		{
+			"_id" : "Orlando",
+			"location_count" : 16
+		},
+		{
+			"_id" : "Tampa, FL",
+			"location_count" : 16
+		},
+		{
+			"_id" : "Rochester, NY",
+			"location_count" : 16
+		},
+		{
+			"_id" : "Curitiba",
+			"location_count" : 16
+		},
+		{
+			"_id" : "Norway",
+			"location_count" : 16
+		},
+		{
+			"_id" : "Mexico City",
+			"location_count" : 16
+		},
+		{
+			"_id" : "california",
+			"location_count" : 16
+		},
+		{
+			"_id" : "Venezuela,Maracaibo, Edo Zulia",
+			"location_count" : 16
+		},
+		{
+			"_id" : "Leeds",
+			"location_count" : 16
+		},
+		{
+			"_id" : "Chiapas, México",
+			"location_count" : 16
+		},
+		{
+			"_id" : "london",
+			"location_count" : 16
+		},
+		{
+			"_id" : "Cincinnati",
+			"location_count" : 15
+		},
+		{
+			"_id" : "Denver, CO",
+			"location_count" : 15
+		},
+		{
+			"_id" : "manchester",
+			"location_count" : 15
+		},
+		{
+			"_id" : "Middle Earth",
+			"location_count" : 15
+		},
+		{
+			"_id" : "U.S.A",
+			"location_count" : 15
+		},
+		{
+			"_id" : "San Antonio, TX",
+			"location_count" : 15
+		},
+		{
+			"_id" : "Nebraska",
+			"location_count" : 15
+		},
+		{
+			"_id" : "Jersey",
+			"location_count" : 15
+		},
+		{
+			"_id" : "hell",
+			"location_count" : 15
+		},
+		{
+			"_id" : "England ",
+			"location_count" : 15
+		},
+		{
+			"_id" : "Washington DC",
+			"location_count" : 15
+		},
+		{
+			"_id" : "221B Baker Street",
+			"location_count" : 15
+		},
+		{
+			"_id" : "Portland, OR",
+			"location_count" : 15
+		},
+		{
+			"_id" : "Porto Alegre",
+			"location_count" : 15
+		},
+		{
+			"_id" : "venezuela",
+			"location_count" : 15
+		},
+		{
+			"_id" : "Gallifrey",
+			"location_count" : 15
+		},
+		{
+			"_id" : "North Wales",
+			"location_count" : 15
+		},
+		{
+			"_id" : "chicago",
+			"location_count" : 15
+		},
+		{
+			"_id" : "Bristol",
+			"location_count" : 15
+		},
+		{
+			"_id" : "Brighton",
+			"location_count" : 15
+		},
+		{
+			"_id" : "Ciudad de México",
+			"location_count" : 15
+		},
+		{
+			"_id" : "where the wild things are",
+			"location_count" : 14
+		},
+		{
+			"_id" : "Charleston, SC",
+			"location_count" : 14
+		},
+		{
+			"_id" : "Baltimore, MD",
+			"location_count" : 14
+		},
+		{
+			"_id" : "A Drafty Downstairs Bedroom",
+			"location_count" : 14
+		},
+		{
+			"_id" : "New York, New York",
+			"location_count" : 14
+		},
+		{
+			"_id" : "earth",
+			"location_count" : 14
+		},
+		{
+			"_id" : "Mars",
+			"location_count" : 14
+		},
+		{
+			"_id" : "F.Varela",
+			"location_count" : 14
+		},
+		{
+			"_id" : "Magyarország",
+			"location_count" : 14
+		},
+		{
+			"_id" : "Paraguay",
+			"location_count" : 14
+		},
+		{
+			"_id" : "DC",
+			"location_count" : 14
+		},
+		{
+			"_id" : "Jacksonville, FL",
+			"location_count" : 14
+		},
+		{
+			"_id" : "Sheffield",
+			"location_count" : 14
+		},
+		{
+			"_id" : "Las Vegas, NV",
+			"location_count" : 14
+		},
+		{
+			"_id" : "Ecuador",
+			"location_count" : 14
+		},
+		{
+			"_id" : "Baltimore",
+			"location_count" : 14
+		},
+		{
+			"_id" : "Orlando, FL",
+			"location_count" : 14
+		},
+		{
+			"_id" : "Ontario, Canada",
+			"location_count" : 14
+		},
+		{
+			"_id" : "The hearts of gays.",
+			"location_count" : 14
+		},
+		{
+			"_id" : "San Diego, California",
+			"location_count" : 14
+		},
+		{
+			"_id" : "fontana, CA",
+			"location_count" : 13
+		},
+		{
+			"_id" : "barbados",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Texas ",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Northern California",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Brooklyn",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Caracas.",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Manchester, UK",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Ottawa",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Global",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Denver, Colorado",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Barcelona",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Cali",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Manchester ",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Brooklyn, New York",
+			"location_count" : 13
+		},
+		{
+			"_id" : "florida",
+			"location_count" : 13
+		},
+		{
+			"_id" : "CA",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Kansas City, MO",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Columbus, Ohio",
+			"location_count" : 13
+		},
+		{
+			"_id" : "internet",
+			"location_count" : 13
+		},
+		{
+			"_id" : ".",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Londres",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Pana, Illinois",
+			"location_count" : 13
+		},
+		{
+			"_id" : "SALVADOR - BAHIA",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Cloud 9",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Minneapolis",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Milwaukee, WI",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Brasília",
+			"location_count" : 13
+		},
+		{
+			"_id" : "Pluto",
+			"location_count" : 12
+		},
+		{
+			"_id" : "england",
+			"location_count" : 12
+		},
+		{
+			"_id" : "Santiago, Chile",
+			"location_count" : 12
+		},
+		{
+			"_id" : "Russia",
+			"location_count" : 12
+		},
+		{
+			"_id" : "Portland, Oregon",
+			"location_count" : 12
+		},
+		{
+			"_id" : "U.S.A.",
+			"location_count" : 12
+		},
+		{
+			"_id" : "Surrey",
+			"location_count" : 12
+		},
+		{
+			"_id" : "Venezuela.",
+			"location_count" : 12
+		},
+		{
+			"_id" : "Denver",
+			"location_count" : 12
+		},
+		{
+			"_id" : "London, England",
+			"location_count" : 12
+		},
+		{
+			"_id" : "Rio Grande do Sul",
+			"location_count" : 12
+		},
+		{
+			"_id" : "ireland",
+			"location_count" : 12
+		},
+		{
+			"_id" : "colombia",
+			"location_count" : 12
+		},
+		{
+			"_id" : "Miami, Florida",
+			"location_count" : 12
+		},
+		{
+			"_id" : "Rio de Janeiro, Brazil",
+			"location_count" : 12
+		},
+		{
+			"_id" : "New Zealand",
+			"location_count" : 12
+		},
+		{
+			"_id" : "Argentina ",
+			"location_count" : 12
+		},
+		{
+			"_id" : "new jersey",
+			"location_count" : 12
+		},
+		{
+			"_id" : "Valencia",
+			"location_count" : 12
+		},
+		{
+			"_id" : "wonderland",
+			"location_count" : 12
+		},
+		{
+			"_id" : "Spain",
+			"location_count" : 12
+		},
+		{
+			"_id" : "Vancouver, BC",
+			"location_count" : 12
+		},
+		{
+			"_id" : "Brazil ",
+			"location_count" : 12
+		},
+		{
+			"_id" : "Oklahoma",
+			"location_count" : 12
+		},
+		{
+			"_id" : "São Paulo ",
+			"location_count" : 12
+		},
+		{
+			"_id" : "New Hampshire",
+			"location_count" : 12
+		},
+		{
+			"_id" : "hogwarts",
+			"location_count" : 11
+		},
+		{
+			"_id" : "La Plata",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Here",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Uruguay",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Nottingham",
+			"location_count" : 11
+		},
+		{
+			"_id" : "GA",
+			"location_count" : 11
+		},
+		{
+			"_id" : "College Station, TX",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Paradise City",
+			"location_count" : 11
+		},
+		{
+			"_id" : "♡",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Caracas, Venezuela",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Kent",
+			"location_count" : 11
+		},
+		{
+			"_id" : "porto alegre",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Fortaleza",
+			"location_count" : 11
+		},
+		{
+			"_id" : "everywhere",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Washington",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Long Island, NY",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Lisboa",
+			"location_count" : 11
+		},
+		{
+			"_id" : "SoCal",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Buffalo, New York",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Valencia city..",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Newcastle",
+			"location_count" : 11
+		},
+		{
+			"_id" : "scotland",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Kansas City",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Somewhere",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Mississippi",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Los Angeles ",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Morgantown, WV",
+			"location_count" : 11
+		},
+		{
+			"_id" : "SC",
+			"location_count" : 11
+		},
+		{
+			"_id" : "NORCAL",
+			"location_count" : 11
+		},
+		{
+			"_id" : "texas",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Honduras",
+			"location_count" : 11
+		},
+		{
+			"_id" : "East Coast",
+			"location_count" : 11
+		},
+		{
+			"_id" : "SP",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Swindon",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Malaysia",
+			"location_count" : 11
+		},
+		{
+			"_id" : "TN",
+			"location_count" : 11
+		},
+		{
+			"_id" : "'Merica",
+			"location_count" : 11
+		},
+		{
+			"_id" : "Everywhere ",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Birmingham, UK",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Los angeles ca ",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Mar del Plata",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Knoxville, TN",
+			"location_count" : 10
+		},
+		{
+			"_id" : "LDN",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Hollywood",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Cambridge",
+			"location_count" : 10
+		},
+		{
+			"_id" : "RVA",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Fort Worth, Texas",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Manaus",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Ed Sheeran«3",
+			"location_count" : 10
+		},
+		{
+			"_id" : "boston",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Tucson, AZ",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Italia",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Cincinnati, Ohio",
+			"location_count" : 10
+		},
+		{
+			"_id" : "The Shire",
+			"location_count" : 10
+		},
+		{
+			"_id" : "don't wanna be found.",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Greensboro, NC",
+			"location_count" : 10
+		},
+		{
+			"_id" : "All around the world",
+			"location_count" : 10
+		},
+		{
+			"_id" : "San Antonio",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Where The Wild Things Are",
+			"location_count" : 10
+		},
+		{
+			"_id" : " Florida",
+			"location_count" : 10
+		},
+		{
+			"_id" : "New York City ",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Detroit, MI",
+			"location_count" : 10
+		},
+		{
+			"_id" : "indiana",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Norwich",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Somewhere in Neverland",
+			"location_count" : 10
+		},
+		{
+			"_id" : "michigan",
+			"location_count" : 10
+		},
+		{
+			"_id" : "$",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Birmingham, AL",
+			"location_count" : 10
+		},
+		{
+			"_id" : "FL",
+			"location_count" : 10
+		},
+		{
+			"_id" : "La La Land",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Tampa",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Atlanta, Ga",
+			"location_count" : 10
+		},
+		{
+			"_id" : "South Florida",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Orlando, Florida",
+			"location_count" : 10
+		},
+		{
+			"_id" : "New Mexico",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Long Island",
+			"location_count" : 10
+		},
+		{
+			"_id" : "Nárnia",
+			"location_count" : 9
+		},
+		{
+			"_id" : "West Virginia",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Omaha, NE",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Santa Catarina",
+			"location_count" : 9
+		},
+		{
+			"_id" : "San Francisco / Bay Area",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Space",
+			"location_count" : 9
+		},
+		{
+			"_id" : "All Around The World ",
+			"location_count" : 9
+		},
+		{
+			"_id" : "usa",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Oz",
+			"location_count" : 9
+		},
+		{
+			"_id" : "bristol",
+			"location_count" : 9
+		},
+		{
+			"_id" : "People's Republic of Chicago",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Miami ",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Córdoba",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Bogota",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Toronto ",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Wayne's (Daddy's) World ",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Houston, Tx",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Venezuela-Maracaibo.",
+			"location_count" : 9
+		},
+		{
+			"_id" : "no",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Amsterdam",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Louisville, KY",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Plymouth, UK",
+			"location_count" : 9
+		},
+		{
+			"_id" : "St. Louis, MO",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Maine",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Phoenix, AZ",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Lagos",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Belfast",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Ipswich",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Ireland ",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Cheltenham",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Bogotá",
+			"location_count" : 9
+		},
+		{
+			"_id" : "warpath",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Ohio ",
+			"location_count" : 9
+		},
+		{
+			"_id" : "ÜT: -6.625391,106.821227",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Indianapolis",
+			"location_count" : 9
+		},
+		{
+			"_id" : "liverpool",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Austin",
+			"location_count" : 9
+		},
+		{
+			"_id" : "VA",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Massachusetts ",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Las Vegas, Nevada",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Miami, Fl",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Orange County, CA",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Panama",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Nowhere",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Orlando, Fl",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Rotherham",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Washington D.C.",
+			"location_count" : 9
+		},
+		{
+			"_id" : "MD",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Natal - RN",
+			"location_count" : 9
+		},
+		{
+			"_id" : "San Francisco, California",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Mordor",
+			"location_count" : 9
+		},
+		{
+			"_id" : "East London",
+			"location_count" : 9
+		},
+		{
+			"_id" : "540",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Sacramento, CA",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Las Vegas ",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Berlin",
+			"location_count" : 9
+		},
+		{
+			"_id" : "RS",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Oxford",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Rio de Janeiro ",
+			"location_count" : 9
+		},
+		{
+			"_id" : "Perú",
+			"location_count" : 9
+		}
+	],
+	"ok" : 1
+}
